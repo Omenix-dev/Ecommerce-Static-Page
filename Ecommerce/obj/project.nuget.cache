@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C6g+zE6DIrlJz7MZAl0/Cc+6zeJ4g0CuzEbvyrBsccWDFVULEzc78/AXy9d5TQqtmL38numRw7y7+XjYA/Dcsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Documents\\decagon task\\week 6\\Ecommerce\\Ecommerce\\Ecommerce.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}
